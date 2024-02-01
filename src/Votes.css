@@ -1,0 +1,29 @@
+.Votes {
+    margin: 20px;
+    text-align: left;
+  }
+  
+.vote-item {
+    margin: 10px 0;
+  }
+  
+button {
+    background-color: #0e3c7e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+.graph-bar {
+    height: 20px; 
+    margin-top: 5px;
+
+  }
+
+
+@media (min-width: 768px) {
+
+};
+

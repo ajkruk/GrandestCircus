@@ -1,0 +1,24 @@
+
+header {
+    color: #0e3c7e;
+    font-family: 'Caveat', cursive;
+    text-align: left;
+    font-size: 40px;
+    box-shadow: 0 5px 2px -2px lightgray;
+
+};
+
+p {
+    text-align: right;
+}
+
+.full-header {
+    display: flex;
+    flex-direction: space-between;
+}
+
+
+
+@media (min-width: 768px) {
+
+};
